@@ -1,1 +1,3 @@
-test file to know git statusx
+test file to know git status
+
+file is moved to MyNewBranch
